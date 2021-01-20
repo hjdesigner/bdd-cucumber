@@ -1,0 +1,22 @@
+{
+  "name": "bdd-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjdesigner/bdd-cucumber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjdesigner/bdd-cucumber/issues"
+  },
+  "homepage": "https://github.com/hjdesigner/bdd-cucumber#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0"
+  }
+}
